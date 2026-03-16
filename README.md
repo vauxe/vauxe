@@ -1,1 +1,3 @@
-![Bad Apple!!](bad_apple.svg)
+<p align="center">
+  <img src="bad_apple.svg" alt="Bad Apple!!">
+</p>
